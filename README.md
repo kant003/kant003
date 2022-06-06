@@ -1,16 +1,31 @@
-### Hi there 👋
+## Hi, I'm Angel 👋
+![](header2.png)
 
-<!--
-**kant003/kant003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Python application](https://github.com/rafnixg/rafnixg/workflows/Python%20application/badge.svg?branch=master&event=schedule) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rafnixg.rafnixg)
 
-Here are some ideas to get you started:
+```javascript
+{
+    "username": "Angel",
+    "name": "Ángel González",
+    "twitter": "@angelgon3",
+    "code":{
+        "frontend": ["HTML", "CSS", "JavaScript", "ReactJS", "Svelte", "Boostrap", "TailWind"],
+        "backend": ["Python", "PHP", "Flask", "Django", "Laravel", "NodeJS", "Odoo"],
+        "database": ["PostgreSQL", "MySQL", "SQLite3", "MongoDB", "Firestore"],
+        "devops": ["Docker", "Nginx", "Jenkins", "GitHub Actions", "AWS", "Heroku", "RailWay"],
+        "tools": ["GIT", "GitHub", "GitLab", "Pandas", "Jupyter notebook", "Redis", "Celery"],
+        "misc": ["Firebase", "TDD", "SCRUM", "SOLID", "GNU/Linux"]
+    },
+    "architecture": ["SPA", "MVC", "Serverless", "microservices"]
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Summary widget](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=kant003&show-header=true)](https://profile.codersrank.io/user/kant003)
+
+## Get in touch
+
+- Twitter: https://twitter.com/angelgon3
+- Personal Site: 
+
+## Latest Posts (Spanish)
+
