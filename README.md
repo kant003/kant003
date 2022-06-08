@@ -9,9 +9,9 @@
     "name": "Ángel González",
     "twitter": "@angelgon3",
     "code":{
-        "frontend": ["HTML", "CSS", "JavaScript", "ReactJS", "Svelte", "Boostrap", "TailWind"],
+        "frontend": ["HTML", "CSS", "JavaScript", "ReactJS", "Angular", "Svelte", "Boostrap", "TailWind"],
         "backend": ["Python", "PHP", "Flask", "Django", "Laravel", "NodeJS", "Odoo"],
-        "database": ["PostgreSQL", "MySQL", "SQLite3", "MongoDB", "Firestore"],
+        "database": ["GraphQL", "PostgreSQL", "MySQL", "SQLite3", "MongoDB", "Firestore"],
         "devops": ["Docker", "Nginx", "Jenkins", "GitHub Actions", "AWS", "Heroku", "RailWay"],
         "tools": ["GIT", "GitHub", "GitLab", "Pandas", "Jupyter notebook", "Redis", "Celery"],
         "misc": ["Firebase", "TDD", "SCRUM", "SOLID", "GNU/Linux"]
@@ -26,6 +26,7 @@
 
 - Twitter: https://twitter.com/angelgon3
 - Personal Site: 
+
 
 ## Latest Posts (Spanish)
 
