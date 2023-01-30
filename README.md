@@ -9,7 +9,7 @@
     "name": "Ángel González",
     "twitter": "@angelgon3",
     "code":{
-        "frontend": ["HTML", "CSS", "JavaScript", "ReactJS", "Angular", "Svelte", "Boostrap", "TailWind"],
+        "frontend": ["HTML", "CSS", "JavaScript", "ReactJS", "Angular", "Svelte", "Boostrap", "TailWind", "astroJs"],
         "backend": ["Python", "PHP", "Flask", "Django", "Laravel", "NodeJS", "Odoo"],
         "database": ["GraphQL", "PostgreSQL", "MySQL", "SQLite3", "MongoDB", "Firestore"],
         "devops": ["Docker", "Nginx", "Jenkins", "GitHub Actions", "AWS", "Heroku", "RailWay"],
