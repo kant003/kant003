@@ -10,10 +10,10 @@
     "twitter": "@angelgon3",
     "code":{
         "frontend": ["HTML", "CSS", "JavaScript", "ReactJS", "Angular", "Svelte", "Boostrap", "TailWind", "astroJs"],
-        "backend": ["Python", "PHP", "Flask", "Django", "Laravel", "NodeJS", "Odoo"],
-        "database": ["GraphQL", "PostgreSQL", "MySQL", "SQLite3", "MongoDB", "Firestore"],
+        "backend": ["NextJs", "Python", "PHP", "Flask", "Django", "Laravel", "NodeJS", "Odoo"],
+        "database": ["Prisma", "GraphQL", "PostgreSQL", "MySQL", "SQLite3", "MongoDB", "Firestore"],
         "devops": ["Docker", "Nginx", "Jenkins", "GitHub Actions", "AWS", "Heroku", "RailWay"],
-        "tools": ["GIT", "GitHub", "GitLab", "Pandas", "Jupyter notebook", "Redis", "Celery"],
+        "tools": ["GIT", "GitHub", "GitLab", "Pandas", "Jupyter notebook", "Redis"],
         "misc": ["Firebase", "TDD", "SCRUM", "SOLID", "GNU/Linux"]
     },
     "architecture": ["SPA", "MVC", "Serverless", "microservices"]
